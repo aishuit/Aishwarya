@@ -13,7 +13,7 @@ src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gi
 
 - 🌱 I’m currently learning **I’m currently learning Machine Learning & AI using Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aishuit](https://github.com/aishut)
+- 👨‍💻 All of my projects are available at [https://github.com/aishuit](https://github.com/aishuit)
 
 - 💬 Ask me about **Java, Python, React, JavaScript, SQL, Full Stack Web Development**
 
